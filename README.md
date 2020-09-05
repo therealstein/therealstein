@@ -12,13 +12,13 @@
 
 <!--START_SECTION:waka-->
 ```text
-Week: 27 August, 2020 - 03 September, 2020
+Week: 28 August, 2020 - 04 September, 2020
 
-JavaScript   9 hrs 42 mins   ██████████▓░░░░░░░░░░░░░░   42.42 % 
-Vue.js       9 hrs 14 mins   ██████████░░░░░░░░░░░░░░░   40.36 % 
-YAML         56 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.10 % 
-Markdown     37 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.71 % 
-Git          36 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.65 % 
+JavaScript   9 hrs 46 mins   ███████████▒░░░░░░░░░░░░░   44.99 % 
+Vue.js       7 hrs 35 mins   ████████▓░░░░░░░░░░░░░░░░   34.91 % 
+YAML         1 hr 3 mins     █▒░░░░░░░░░░░░░░░░░░░░░░░   04.89 % 
+Markdown     51 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.96 % 
+Git          34 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.67 % 
 ```
 <!--END_SECTION:waka-->
 
