@@ -12,7 +12,7 @@
 
 <!--START_SECTION:waka-->
 ```text
-Week: 04 September, 2020 - 11 September, 2020
+Week: 05 September, 2020 - 12 September, 2020
 
 Vue.js       2 hrs 4 mins    █████████████▓░░░░░░░░░░░   54.90 % 
 YAML         51 mins         █████▓░░░░░░░░░░░░░░░░░░░   22.52 % 
