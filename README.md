@@ -12,12 +12,11 @@
 
 <!--START_SECTION:waka-->
 ```text
-Week: 07 September, 2020 - 14 September, 2020
+Week: 08 September, 2020 - 15 September, 2020
 
-Markdown   17 mins         ███████████▓░░░░░░░░░░░░░   47.28 % 
-YAML       17 mins         ███████████▒░░░░░░░░░░░░░   45.30 % 
-Git        1 min           █░░░░░░░░░░░░░░░░░░░░░░░░   03.75 % 
-Other      1 min           █░░░░░░░░░░░░░░░░░░░░░░░░   03.66 % 
+YAML       17 mins         ████████████▒░░░░░░░░░░░░   49.52 % 
+Markdown   15 mins         ███████████░░░░░░░░░░░░░░   44.21 % 
+Other      1 min           █░░░░░░░░░░░░░░░░░░░░░░░░   04.01 % 
 ```
 <!--END_SECTION:waka-->
 
