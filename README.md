@@ -12,7 +12,7 @@
 
 <!--START_SECTION:waka-->
 ```text
-Week: 08 September, 2020 - 15 September, 2020
+Week: 09 September, 2020 - 16 September, 2020
 
 YAML       17 mins         ████████████▒░░░░░░░░░░░░   49.52 % 
 Markdown   15 mins         ███████████░░░░░░░░░░░░░░   44.21 % 
