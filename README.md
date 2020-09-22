@@ -12,8 +12,6 @@
 
 <!--START_SECTION:waka-->
 ```text
-Week: 13 September, 2020 - 20 September, 2020
-
 Vue.js       2 hrs           ██████████████▓░░░░░░░░░░   58.85 % 
 JavaScript   28 mins         ███▓░░░░░░░░░░░░░░░░░░░░░   14.13 % 
 Docker       23 mins         ███░░░░░░░░░░░░░░░░░░░░░░   11.38 % 
