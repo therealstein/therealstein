@@ -12,11 +12,13 @@
 
 <!--START_SECTION:waka-->
 ```text
-Python       3 hrs 26 mins   ████████▒░░░░░░░░░░░░░░░░   33.26 % 
-TypeScript   2 hrs 52 mins   ███████░░░░░░░░░░░░░░░░░░   27.85 % 
-JavaScript   1 hr 53 mins    ████▓░░░░░░░░░░░░░░░░░░░░   18.37 % 
-Docker       59 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   09.67 % 
-JSON         32 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.22 % 
+Week: 27 October, 2020 - 03 November, 2020
+
+TypeScript   8 hrs 11 mins   ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀   67.59 % 
+JavaScript   1 hr 39 mins    ⣿⣿⣿⣤⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   13.68 % 
+Docker       59 mins         ⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   08.24 % 
+JSON         32 mins         ⣿⣄⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   04.45 % 
+Git          17 mins         ⣤⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   02.36 % 
 ```
 <!--END_SECTION:waka-->
 
