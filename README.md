@@ -12,7 +12,7 @@
 
 <!--START_SECTION:waka-->
 ```text
-Week: 17 May, 2021 - 24 May, 2021
+Week: 18 May, 2021 - 25 May, 2021
 
 TypeScript   9 hrs 14 mins   ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣶⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   46.73 % 
 Vue.js       5 hrs 54 mins   ⣿⣿⣿⣿⣿⣿⣿⣦⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   29.92 % 
