@@ -12,7 +12,7 @@
 
 <!--START_SECTION:waka-->
 ```text
-Week: 11 December, 2021 - 17 December, 2021
+Week: 12 December, 2021 - 18 December, 2021
 
 JavaScript   41 mins         ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣤⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   37.06 % 
 Lua          31 mins         ⣿⣿⣿⣿⣿⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   28.33 % 
