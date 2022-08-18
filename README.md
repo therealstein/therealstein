@@ -15,6 +15,8 @@
 ```text
 From: 10 August 2022 - To: 17 August 2022
 
+Total Time: 26 hrs 23 mins
+
 JavaScript   14 hrs 21 mins  ████████████▒░░░░░░░░░░░░   49.14 %
 Vue.js       9 hrs           ███████▓░░░░░░░░░░░░░░░░░   30.83 %
 JSON         2 hrs 32 mins   ██▒░░░░░░░░░░░░░░░░░░░░░░   08.72 %
