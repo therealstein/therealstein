@@ -13,15 +13,7 @@
 <!--START_SECTION:waka-->
 
 ```text
-From: 29 September 2022 - To: 06 October 2022
-
-Total Time: 11 mins
-
-Dart       9 mins          ████████████████████▓░░░░   82.27 %
-JSON       0 secs          ██░░░░░░░░░░░░░░░░░░░░░░░   08.26 %
-YAML       0 secs          █▒░░░░░░░░░░░░░░░░░░░░░░░   05.48 %
-Markdown   0 secs          █░░░░░░░░░░░░░░░░░░░░░░░░   03.91 %
-Other      0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.08 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
