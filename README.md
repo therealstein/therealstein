@@ -13,7 +13,13 @@
 <!--START_SECTION:waka-->
 
 ```text
-No activity tracked
+From: 02 October 2022 - To: 09 October 2022
+
+Total Time: 23 mins
+
+Vue.js       11 mins         ████████████▓░░░░░░░░░░░░   50.59 %
+JSON         8 mins          █████████▓░░░░░░░░░░░░░░░   38.12 %
+JavaScript   2 mins          ██▓░░░░░░░░░░░░░░░░░░░░░░   11.29 %
 ```
 
 <!--END_SECTION:waka-->
