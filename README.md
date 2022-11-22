@@ -13,12 +13,12 @@
 <!--START_SECTION:waka-->
 
 ```text
-From: 12 November 2022 - To: 19 November 2022
+From: 13 November 2022 - To: 20 November 2022
 
-Total Time: 59 mins
+Total Time: 45 mins
 
-TypeScript   50 mins         █████████████████░░░░░░░░   67.69 %
-Other        15 mins         █████▒░░░░░░░░░░░░░░░░░░░   20.88 %
+TypeScript   36 mins         ███████████████░░░░░░░░░░   60.03 %
+Other        15 mins         ██████▒░░░░░░░░░░░░░░░░░░   25.83 %
 ```
 
 <!--END_SECTION:waka-->
