@@ -6,5 +6,4 @@
 - 🤔 I’m looking for help with ... writing prompts that accelerate my current prompts
 - 💬 Ask me about ... Automations that generate big bucks
 - 📫 How to reach me: ... in the past, you reached me best on IRC
-- 😄 Pronouns: ... He/Him no matter what
 - ⚡ Fun fact: ... Isn't that funny
