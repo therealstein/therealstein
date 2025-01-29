@@ -1,10 +1,10 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on ... Node.js API
-- 🌱 I’m currently learning ... Sequelize
-- 👯 I’m looking to collaborate on ... Vue.Js
-- 🤔 I’m looking for help with ... Vue.js
-- 💬 Ask me about ... Telegram Bots 
-- 📫 How to reach me: ... 
-- 😄 Pronouns: ... He/Him
-- ⚡ Fun fact: ... 
+- 🔭 I’m currently working on ... projects that will be copied anyway
+- 🌱 I’m currently learning ... how to mess with AI
+- 👯 I’m looking to collaborate on ... projects that improve ourselves
+- 🤔 I’m looking for help with ... writing prompts that accelerate my current prompts
+- 💬 Ask me about ... Automations that generate big bucks
+- 📫 How to reach me: ... at someday you reached me best on IRC
+- 😄 Pronouns: ... He/Him no matter what
+- ⚡ Fun fact: ... Isn't that funny
